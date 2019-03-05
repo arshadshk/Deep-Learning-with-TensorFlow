@@ -1,0 +1,4 @@
+This code was practiced by taking the data from kaggle.
+Using a pre-trained RESNET50 model for predicting the orientation of the images.
+Using keras with tensorflow backend.
+Data agumentation used for improving the model accuracy, the image fliping/mirroring and image boder shift techniques used under this.
